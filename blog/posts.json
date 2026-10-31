@@ -12,5 +12,19 @@
     "google_quality_passed": true,
     "eeat_score": 100,
     "seo_aeo_score": 7.73
+  },
+  {
+    "keyword": "Authentic Pakistani clothing complete guide: styles, fabrics and occasions",
+    "title": "Authentic Pakistani clothing complete guide",
+    "description": "Discover authentic Pakistani clothing: shalwar kameez, lawn, silk and more. This complete guide covers styles, fabrics and occasions for US shoppers.",
+    "file": "authentic-pakistani-clothing-complete-guide-styles-fabrics-and-occasions.html",
+    "date": "2026-10-31",
+    "archetype": "authority_guide",
+    "archetype_confidence": 0.97,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 9.23
   }
 ]
